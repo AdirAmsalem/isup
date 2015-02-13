@@ -4,7 +4,7 @@
   "description": "Check if a website is up or down",
   "main": "./lib/isup",
   "bin": {
-    "isup": "./bin/isup"
+    "isup": "./bin/isup.js"
   },
   "repository": "AdirAmsalem/isup",
   "keywords": [
