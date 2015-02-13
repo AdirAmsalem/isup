@@ -1,6 +1,6 @@
 {
   "name": "isup",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Check if a website is up or down",
   "main": "./lib/isup",
   "bin": {
