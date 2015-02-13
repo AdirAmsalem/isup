@@ -1,0 +1,28 @@
+{
+  "name": "isup",
+  "version": "0.1.0",
+  "description": "Check if a website is up or down",
+  "main": "./lib/isup",
+  "bin": {
+    "isup": "./bin/isup"
+  },
+  "repository": "AdirAmsalem/isup",
+  "keywords": [
+    "isup"
+  ],
+  "author": "Adir Amsalem <adiramsalem@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdirAmsalem/isup/issues"
+  },
+  "homepage": "https://github.com/AdirAmsalem/isup",
+  "engineStrict": true,
+  "preferGlobal": true,
+  "dependencies": {
+    "commander": "^2.6.0",
+    "request-promise": "^0.4.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
